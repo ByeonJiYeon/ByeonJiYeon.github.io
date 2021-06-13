@@ -1,18 +1,6 @@
-# front cover jekyll theme
+# 교수님 안녕하세요
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
-
-
-## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
-
-## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
-
-This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
-
+## 20181716 구) 소프트웨어학과 현) 컴퓨터 공학과 변지연입니다
+* 한 학기 오픈소스 소프트웨어 및 다른 강의 진행 하시느라 고생하셨습니다
+* 저는 8월에 훈련 갔다 오겠습니다! 충성!
+* 들숨에 건강을 날숨에 행운을 얻으세요! 🍀
