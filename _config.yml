@@ -3,32 +3,22 @@ name: Byeon JI Yeon
 description: "60th ROTC on 163 🇰🇷 AND GWNU 20181716"
 url: ""
 
-
-# Delete the lines you don't need
-# about 5 elements are recomended
 facebook_username: profile.php?id=100008056174846
 instagram_username:  by.j_y__n
 blog_url: "https://blog.naver.com/elzelzz"
 email: elzelz@gwnu.ac.kr
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
-
 
 avatar: yes
 avatar_img_path: "imgs/byeonji.jpg"
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
-# avatar_img_path: "
 
 front_img: yes
 front_img_path: "imgs/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
+
 
 
 favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
 
 
-# Build settings
 markdown: kramdown
 permalink: pretty
